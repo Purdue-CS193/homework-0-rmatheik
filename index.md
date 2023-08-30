@@ -7,6 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Mycode
 # Rhea Matheikal's First CS193 Homework
 
+What I love about CS193 <3
+
 - the instructors
 - the games
 
