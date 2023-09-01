@@ -10,7 +10,7 @@ What I love about CS193 <3
 
 - the instructors
 - the games
-
+ 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
